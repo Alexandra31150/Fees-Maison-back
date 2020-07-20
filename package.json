@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Alexandra31150/Fees-maison-back/issues"
   },
-  "homepage": "https://github.com/Alexandra31150/Fees-maison-back#readme"
+  "homepage": "https://github.com/Alexandra31150/Fees-maison-back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
 }
